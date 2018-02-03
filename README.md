@@ -4,7 +4,7 @@ according to instructions provided from Earth. This program determines each sequ
 positions and reports the final position of the robot.
 
 # Examples
-Run this from your IDE.  
+### Run this from your IDE  
 Create a configuration to run a **ConsoleApp** class from **mr-app** module.  
 Add below strings as program arguments:
 
