@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.knoha.martian-robots</groupId>
+        <artifactId>martian-robots</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>mr-core</artifactId>
+    <packaging>pom</packaging>
+
+    <name>mr-core</name>
+    <description>The core module.</description>
+
+    <modules>
+        <module>mr-core-models</module>
+        <module>mr-core-services</module>
+    </modules>
+
+</project>
